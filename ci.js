@@ -20,4 +20,7 @@ Steps => Cuales son:
 
 https://circleci.com/
 
+
+-Se me rompió en npm run build y nose porque.
+
 */
